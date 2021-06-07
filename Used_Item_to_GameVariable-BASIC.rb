@@ -8,6 +8,14 @@
 #
 #  It is not necessary to credit me as it is just a simple modification
 #  Can be used in commercial and non-commercial games
+#
+#  Instruction:
+#  To change the game variable in progress just call the following script:
+#  USED_ITEM::VARID = NEWID
+#
+#  Example:
+#  USED_ITEM::VARID = 20
+#
 #==============================================================================
 
 module USED_ITEM
