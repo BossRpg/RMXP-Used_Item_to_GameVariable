@@ -1,5 +1,5 @@
 #==============================================================================
-# ** USED_ITEM_TO_GAMEVARIABLE
+# ** USED_ITEM_TO_GAMEVAR
 #------------------------------------------------------------------------------
 #  This code updates the consumption of items.
 #  The unique id of the item used is recorded in a game variable
